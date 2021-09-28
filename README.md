@@ -6,7 +6,6 @@
 * I'm currently learning PyTorch🔥
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
