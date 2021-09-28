@@ -2,7 +2,7 @@
 
 
 
-* I'm currently working on school related projects
+* I'm currently working on school related projects 💻
 
 
 <!--START_SECTION:waka-->
