@@ -3,7 +3,7 @@
 
 
 * I'm currently working on school related projects
-* I'm currently learning PyTorch🔥
+
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
