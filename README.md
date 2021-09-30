@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Alexander Henke, a Student at Hs Harz</h3>
+<h3>Hi 👋, I'm Alexander Henke, a student at Hs Harz</h3>
 
 
 
