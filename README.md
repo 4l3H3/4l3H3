@@ -1,10 +1,9 @@
-<h3>Hi 👋, I'm Alexander Henke</h3>
+<h3>Hello there 👋</h3>
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <h3>About me</h3>
 
-* I am a student at the HS Harz
-* I am currently working on school related projects 💻
+I am Alexander Henke, a student at HS Harz. I'm currently working on school related projects 💻.
 </br>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=4l3H3&theme=synthwave" width = 400>
