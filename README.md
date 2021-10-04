@@ -1,8 +1,16 @@
-<h3>Hi 👋, I'm Alexander Henke, a student at Hs Harz</h3>
-
-
+<h3>Hi 👋, I'm Alexander Henke</h3>
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 * I'm currently working on school related projects 💻
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=4l3H3&theme=synthwave" width = 400>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=4l3H3&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" width = 400>
+</p>
+
+
+
+
 
 
 <!--START_SECTION:waka-->
