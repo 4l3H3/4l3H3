@@ -3,7 +3,7 @@
 
 <h3>About me</h3>
 
-* I am a studen at the HS Harz
+* I am a student at the HS Harz
 * I am currently working on school related projects 💻
 </br>
 <p align="center">
