@@ -16,7 +16,7 @@ I am Alexander Henke, a student at HS Harz. I'm currently working on school rela
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5487%20lines%20of%20code-blue)
 
@@ -49,9 +49,9 @@ Sunday       20 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   1 hr 56 mins        ██████████████████░░░░░░░   74.44% 
-Java                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.52% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Python                   2 hrs 3 mins        ██████████████████░░░░░░░   71.78% 
+Java                     48 mins             ███████░░░░░░░░░░░░░░░░░░   28.19% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
 
@@ -66,7 +66,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2021
+ Last Updated on 05/10/2021
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
