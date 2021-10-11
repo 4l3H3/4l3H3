@@ -11,7 +11,6 @@ I am Alexander Henke, a student at HS Harz.
 * 🎮 I play video games.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 **I'm an Early 🐤** 
 
