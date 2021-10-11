@@ -1,6 +1,7 @@
 <h3>Hello there 👋</h3>
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
+<h1></h1>
 <h3>About me</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=4l3H3&theme=synthwave&count_private=true" width = 400>
@@ -9,7 +10,7 @@ I am Alexander Henke, a student at HS Harz.
 * 💻 I'm currently working on school related projects.
 * 📚 I'm currently reading "Effective Java" and "Design Patterns".
 * 🎮 I play video games.
-
+<h1></h1>
 <!--START_SECTION:waka-->
 
 **I'm an Early 🐤** 
