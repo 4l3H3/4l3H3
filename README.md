@@ -3,17 +3,12 @@
 
 <h3>About me</h3>
 
-I am Alexander Henke, a student at HS Harz. I'm currently working on school related projects 💻.
-</br>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=4l3H3&theme=synthwave" width = 400>
- <img src="http://github-readme-streak-stats.herokuapp.com?user=4l3H3&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D" width = 400>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=4l3H3&theme=synthwave" width = 400>
 
-
-
-
-
+I am Alexander Henke, a student at HS Harz. 
+* 💻 I'm currently working on school related projects.
+* 📚 I'm currently reading "Effective Java" and "Design Patterns".
+* 🎮 I play a lot of video games.
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
