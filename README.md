@@ -8,7 +8,7 @@
 I am Alexander Henke, a student at HS Harz. 
 * 💻 I'm currently working on school related projects.
 * 📚 I'm currently reading "Effective Java" and "Design Patterns".
-* 🎮 I play a lot of video games.
+* 🎮 I play video games.
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
