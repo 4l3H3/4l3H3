@@ -8,7 +8,7 @@
 
 I am Alexander Henke, a student at HS Harz. 
 * 💻 I'm currently working on school related projects.
-* ☕ I'm currently learning Java and Python.
+* ☕ I'm currently learning HTML, CSS and Javascript.
 * 📚 I'm currently reading "Effective Java" and "Design Patterns".
 * 🎮 I play video games.
 <h1></h1>
