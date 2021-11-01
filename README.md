@@ -1,6 +1,5 @@
 <h3>Hello there 👋</h3>
-<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
+<img src='https://c.tenor.com/QFSdaXEwtBAAAAAC/hello-there-general-kenobi.gif'>
 <h1></h1>
 <h3>About me</h3>
 
