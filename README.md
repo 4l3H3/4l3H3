@@ -8,7 +8,6 @@
 
 I am Alexander Henke, a student at HS Harz. 
 * 💻 I'm currently working on school related projects.
-* 🔥 I'm currently learning about perceptrons.
 * 🎮 I play video games.
 <h1></h1>
 
