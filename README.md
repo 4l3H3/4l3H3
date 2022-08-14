@@ -31,13 +31,13 @@ I am Alexander Henke, a student at HS Harz.
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     2 hrs 26 mins       ██████████████████░░░░░░░   75.33% 
-Other                    47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67%
+Java                     11 hrs 4 mins       ███████████████████████░░   92.48% 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.52%
 
 ```
 
 
- Last Updated on 12/08/2022 18:45:36 UTC
+ Last Updated on 14/08/2022 18:43:06 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=4l3H3&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
