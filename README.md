@@ -17,26 +17,24 @@ I am Alexander Henke, a student at HS Harz.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning        6 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime       23 commits       ███████████████████░░░░░░   76.67 % 
-🌃 Evening        1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-🌙 Night          0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
+🌞 Morning                6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌆 Daytime                23 commits          ███████████████████░░░░░░   76.67 % 
+🌃 Evening                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Berlin
+🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 ```
 
 
- Last Updated on 21/02/2023 18:37:54 UTC
+ Last Updated on 23/02/2023 18:39:13 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=4l3H3&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
