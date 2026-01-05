@@ -12,7 +12,7 @@ I am Alexander Henke, a student at HS Harz.
 <h1></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -34,7 +34,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/01/2026 18:48:47 UTC
+ Last Updated on 05/01/2026 18:53:32 UTC
 <!--END_SECTION:waka-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=4l3H3&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
